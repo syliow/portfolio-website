@@ -55,14 +55,14 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "syliow", //i.e."johnDoe12Gh"
-  reposLength: 6,
+  reposLength: 0,
   specificRepos: [
-    // "coinpengin-frontend",
-    // "coinpengin-backend",
-    // "pengin-nft-website",
-    // "pengin-nft-minting-website",
-    // "Volcanic-LandingPage",
-    // "mdis-cafe",
+    "coinpengin-frontend",
+    "coinpengin-backend",
+    "pengin-nft-website",
+    "pengin-nft-minting-website",
+    "Volcanic-LandingPage",
+    "mdis-cafe",
   ],
 };
 

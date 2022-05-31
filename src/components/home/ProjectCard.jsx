@@ -79,7 +79,7 @@ const CardButtons = ({ svn_url }) => {
         target=" _blank"
         className="btn btn-outline-secondary mr-3"
       >
-        <i className="fab fa-github" /> Open Demo
+        <i className="fab fa-github" /> Demo
       </a>
       <a href={svn_url} target=" _blank" className="btn btn-outline-secondary">
         <i className="fab fa-github" /> Repo
