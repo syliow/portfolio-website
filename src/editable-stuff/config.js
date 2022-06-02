@@ -69,7 +69,7 @@ const repos = {
 // Leadership SECTION
 const leadership = {
   show: true,
-  heading: "Cryptocurrency / NFT",
+  heading: "Recent Project",
   message:
     "Both Coinpengin and Pengin Club are based on my own personal NFT collection called Pengin which are listed on Opensea testnet. This is my first project in blockchain and I am excited to finish it and share it with the world, I am also glad that I have been able to learn a lot from it and I am looking forward to continue to learn more about NFT and blockchain development.",
   images: [
@@ -132,7 +132,7 @@ const experiences = {
     {
       role: "Full-Stack Software Engineer (DM. Dasher)", // Here Add Company Name
       companylogo: require("../assets/img/dmdasher.png"),
-      date: "November 2021 – Present",
+      date: "November 2021 – May 2022",
     },
     {
       role: "Full-Stack Developer Internship (Code for Asia)",
