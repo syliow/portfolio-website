@@ -42,8 +42,8 @@ const about = {
   imageLink: require("../editable-stuff/sy_liow.jpg"),
   imageSize: 300,
   message:
-    "Hello 👋 My name is Liow Shan Yi. I have one year of experience in both front-end and back-end development, specialising in MERN stack (MongoDB, Express, React, Node). I am passionate about blockchain technologies and cryptocurrency, currently working on multiple personal projects related with Web 3.0 and NFT.",
-  resume: require("../editable-stuff/resume.pdf"),
+    "Hello 👋 My name is Liow Shan Yi. I have one year of experience in both front-end and back-end development, specialising in MERN stack (MongoDB, Express, React, Node). I am passionate about blockchain technologies and cryptocurrency, currently working on personal projects related with Web 3.0 and NFT.",
+  resume: require("../editable-stuff/LiowShanYi_Resume.pdf"),
 };
 
 // PROJECTS SECTION
@@ -53,7 +53,7 @@ const about = {
 //      i.e ["repository-1", "repo-2"]
 const repos = {
   show: true,
-  heading: "Recent Projects",
+  heading: "All Projects",
   gitHubUsername: "syliow", //i.e."johnDoe12Gh"
   reposLength: 0,
   specificRepos: [
@@ -130,14 +130,14 @@ const experiences = {
   heading: "Work Experiences",
   data: [
     {
-      role: "Full-Stack Software Engineer (DM. Dasher)", // Here Add Company Name
+      role: "Full-Stack Software Engineer (2022)", // Here Add Company Name
       companylogo: require("../assets/img/dmdasher.png"),
-      date: "November 2021 – May 2022",
+      date: "DM. Dasher",
     },
     {
-      role: "Full-Stack Developer Internship (Code for Asia)",
+      role: "Full-Stack Developer Internship (2021)",
       companylogo: require("../assets/img/codeforasia.png"),
-      date: "April 2021 – August 2021",
+      date: "Code for Asia",
     },
   ],
 };
