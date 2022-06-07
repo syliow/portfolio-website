@@ -135,7 +135,7 @@ const experiences = {
       date: "DM. Dasher",
     },
     {
-      role: "Full-Stack Developer Internship (2021)",
+      role: "Software Engineer Intern (2021)",
       companylogo: require("../assets/img/codeforasia.png"),
       date: "Code for Asia",
     },
