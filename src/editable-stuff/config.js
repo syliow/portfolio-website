@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Shanyi",
   middleName: "",
   lastName: "Liow",
-  message: "Full-Stack Developer | Just a person who enjoys Web3 development.",
+  message: "Full-Stack Developer | Enjoys Web3 Development.",
   icons: [
     {
       image: "fa-github",
