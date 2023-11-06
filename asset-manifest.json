@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab588325.chunk.css",
+    "main.js": "/static/js/main.5d070f22.chunk.js",
+    "main.js.map": "/static/js/main.5d070f22.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
+    "static/js/2.35db43a5.chunk.js": "/static/js/2.35db43a5.chunk.js",
+    "static/js/2.35db43a5.chunk.js.map": "/static/js/2.35db43a5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bb73505f83eaec73adcfeb407835229e.js": "/precache-manifest.bb73505f83eaec73adcfeb407835229e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ab588325.chunk.css.map": "/static/css/main.ab588325.chunk.css.map",
+    "static/js/2.35db43a5.chunk.js.LICENSE.txt": "/static/js/2.35db43a5.chunk.js.LICENSE.txt",
+    "static/media/LiowShanYi_Resume.pdf": "/static/media/LiowShanYi_Resume.a571ce1e.pdf",
+    "static/media/Untitled.png": "/static/media/Untitled.db3468c3.png",
+    "static/media/dmdasher.png": "/static/media/dmdasher.12fc48ee.png",
+    "static/media/pengin-club.png": "/static/media/pengin-club.4bf04bfe.png",
+    "static/media/sy_liow.jpg": "/static/media/sy_liow.4c4a244a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.554504a0.js",
+    "static/js/2.35db43a5.chunk.js",
+    "static/css/main.ab588325.chunk.css",
+    "static/js/main.5d070f22.chunk.js"
+  ]
+}
