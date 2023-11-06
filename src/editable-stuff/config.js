@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Shanyi",
   middleName: "",
   lastName: "Liow",
-  message: "Software Developer",
+  message: "Software Engineer",
   icons: [
     {
       image: "fa-github",
@@ -42,7 +42,7 @@ const about = {
   imageLink: require("../editable-stuff/sy_liow.jpg"),
   imageSize: 300,
   message:
-    "Hello 👋 My name is Liow Shan Yi.",
+    "Hello 👋 My name is Liow Shan Yi. I am a Software Engineer specializing in Frontend development with expertise in Typescript and React.",
   resume: require("../editable-stuff/LiowShanYi_Resume.pdf"),
 };
 
@@ -130,19 +130,14 @@ const experiences = {
   heading: "Work Experiences",
   data: [
     {
-      role: "Full-Stack Developer (Current)", // Here Add Company Name
+      role: "Frontend Engineer (Current)", // Here Add Company Name
       companylogo: require("../assets/img/tatsu.png"),
       date: "Tatsu Works",
     },
     {
-      role: "Full-Stack Developer (2022)", // Here Add Company Name
+      role: "Frontend Engineer (2021)", // Here Add Company Name
       companylogo: require("../assets/img/dmdasher.png"),
       date: "DM. Dasher",
-    },
-    {
-      role: "Software Engineer Intern (2021)",
-      companylogo: require("../assets/img/codeforasia.png"),
-      date: "Code for Asia",
     },
   ],
 };
