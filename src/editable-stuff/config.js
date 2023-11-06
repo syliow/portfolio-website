@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Shanyi",
   middleName: "",
   lastName: "Liow",
-  message: "Full-Stack Developer",
+  message: "Software Developer",
   icons: [
     {
       image: "fa-github",
@@ -42,7 +42,7 @@ const about = {
   imageLink: require("../editable-stuff/sy_liow.jpg"),
   imageSize: 300,
   message:
-    "Hello 👋 My name is Liow Shan Yi. I have experience in both Front-end and Back-end development, specialising in MERN stack (MongoDB, Express, React, Node). I am passionate about blockchain technologies and cryptocurrency, currently working on personal projects related with Web 3.0 and NFT.",
+    "Hello 👋 My name is Liow Shan Yi.",
   resume: require("../editable-stuff/LiowShanYi_Resume.pdf"),
 };
 
