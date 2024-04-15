@@ -130,12 +130,12 @@ const experiences = {
   heading: "Work Experiences",
   data: [
     {
-      role: "Frontend Engineer (Current)", // Here Add Company Name
+      role: "Software Engineer (Current)", // Here Add Company Name
       companylogo: require("../assets/img/tatsu.png"),
       date: "Tatsu Works",
     },
     {
-      role: "Frontend Engineer (2021)", // Here Add Company Name
+      role: "Software Engineer (2021)", // Here Add Company Name
       companylogo: require("../assets/img/dmdasher.png"),
       date: "DM. Dasher",
     },
