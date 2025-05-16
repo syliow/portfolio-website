@@ -17,7 +17,7 @@ const mainBody = {
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/syliow1107",
+      url: "https://www.linkedin.com/in/syliow",
     },
   ],
 };
