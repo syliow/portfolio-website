@@ -67,7 +67,7 @@ const CardButtons = ({ svn_url }) => {
   } else if (svn_url === "https://github.com/syliow/coinpengin-frontend") {
     demo_url = "https://coin-pengin.netlify.app/";
   } else if (svn_url === "https://github.com/syliow/coinpengin-backend") {
-    demo_url = "https://crypto-price-tracker-backend.herokuapp.com/welcome";
+    demo_url = "https://coinpengin-backend.onrender.com/welcome";
   } else {
     svn_url = { svn_url };
   }
