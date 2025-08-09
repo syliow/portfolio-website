@@ -52,7 +52,7 @@ const CardButtons = ({ svn_url }) => {
     demo_url = "https://penginclub-nft.netlify.app/";
     //second
   } else if (
-    svn_url === "https://github.com/syliow/pengin-nft-minting-website"
+    svn_url === "https://github.com/syliow/pengin-mint"
   ) {
     demo_url = "https://pengin-nftmint.netlify.app/";
     //third
