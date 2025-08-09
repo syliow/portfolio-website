@@ -59,11 +59,6 @@ const CardButtons = ({ svn_url }) => {
   } else if (svn_url === "https://github.com/syliow/crypto-price-tracker") {
     demo_url = "https://coin-pengin.netlify.app//";
     //fourth
-  } else if (svn_url === "https://github.com/syliow/Volcanic-LandingPage") {
-    demo_url = "https://volcanic-landingpage.netlify.app/";
-    //fifth
-  } else if (svn_url === "https://github.com/syliow/mdis-cafe") {
-    demo_url = "https://mdis-cafe.netlify.app/";
   } else if (svn_url === "https://github.com/syliow/coinpengin-frontend") {
     demo_url = "https://coin-pengin.netlify.app/";
   } else if (svn_url === "https://github.com/syliow/coinpengin-backend") {
