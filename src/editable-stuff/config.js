@@ -61,8 +61,6 @@ const repos = {
     "coinpengin-backend",
     "pengin-nft-website",
     "pengin-nft-minting-website",
-    "Volcanic-LandingPage",
-    "mdis-cafe",
   ],
 };
 
